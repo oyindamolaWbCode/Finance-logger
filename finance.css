@@ -1,0 +1,30 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.logger{
+    margin-top: 50px ;
+    text-align: center;
+    font-size: 30px;
+    color: rgb(245, 48, 81);
+    font-weight: bold;
+}
+
+.logger-output{
+    width: 50%;
+    margin: 40px auto;
+}
+
+.output{
+    padding: 10px;
+    border: 1px solid gray;
+    margin: 15px 0px;
+}
+
+.output .title{
+    color: rgb(245, 48, 81);
+    margin-bottom: 10px;
+}
+
